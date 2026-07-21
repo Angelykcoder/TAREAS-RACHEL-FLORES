@@ -4,6 +4,12 @@ public class Ejercicio1 {
 
         //Ejercicio 2
          System.out.println("Rachell");
+
+        // 3. Declarar una variable int y mostrar su valor
+        int x = 20;
+        System.out.println(x);
+
+
     }
     
 }
