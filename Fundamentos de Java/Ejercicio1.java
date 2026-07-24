@@ -1,4 +1,5 @@
-import java.util.Scanner;
+
+       import java.util.Scanner;
 
 public class Ejercicio1 {
 
@@ -200,6 +201,7 @@ public class Ejercicio1 {
             int cubo = k * k* k;
             System.out.println("El cubo de " + k + " es: " + cubo);
         }
+
+        // Ejercicio 31 
+        
     }
-}
-    
